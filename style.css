@@ -94,4 +94,7 @@ button {
     .formulario{
         display: none;
     }
+    button{
+        display: none;
+    }
   }
